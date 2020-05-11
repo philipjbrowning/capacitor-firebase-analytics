@@ -17,8 +17,8 @@ android {
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        versionName '1.0'
+        testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
     }
     buildTypes {
         release {
@@ -36,7 +36,7 @@ repositories {
     jcenter()
     mavenCentral()
     maven {
-        url  "https://dl.bintray.com/ionic-team/capacitor"
+        url 'https://dl.bintray.com/ionic-team/capacitor'
     }
 }
 
