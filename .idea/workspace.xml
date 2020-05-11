@@ -1,144 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f88b3a1c-994c-4129-9c96-04982ee1eb61" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="f88b3a1c-994c-4129-9c96-04982ee1eb61" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapacitorFirebaseAnalytics.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/CapacitorFirebaseAnalytics.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/capacitor-firebase-analytics/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/capacitor-firebase-analytics/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Plugin/Plugin/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Plugin/Plugin/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/cordova.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/cordova.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/core-plugin-definitions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/core-plugin-definitions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/core-plugin-definitions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/core-plugin-definitions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/core-plugin-definitions.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/core-plugin-definitions.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/definitions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/definitions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/global.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/global.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/global.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/global.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/util.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/util.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-plugins.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-plugins.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-plugins.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-plugins.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-runtime.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-runtime.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web-runtime.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/browser.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/browser.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/camera.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/camera.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/camera.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/camera.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/camera.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/clipboard.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/clipboard.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/clipboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/clipboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/clipboard.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/clipboard.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/device.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/device.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/device.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/device.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/device.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/device.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/geolocation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/geolocation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/geolocation.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/geolocation.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/modals.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/modals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/modals.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/modals.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/motion.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/motion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/motion.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/motion.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/share.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/share.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/share.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/share.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/storage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/storage.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/storage.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/toast.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/toast.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/toast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/toast.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/esm/web/toast.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/native-bridge.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/native-bridge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/docs/generator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/.mailmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/AUTHORS.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/AUTHORS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.asynciterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.asynciterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/protocol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/protocol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/capacitor-firebase-analytics/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CapacitorFirebaseAnalytics.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/android/capacitor-firebase-analytics/src/main/java/com/philmerrell/firebaseanalytics/CapacitorFirebaseAnalytics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1808" />
-    <option name="y" value="-257" />
-    <option name="width" value="1664" />
-    <option name="height" value="801" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="philmerrell" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capacitor-firebase-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="capacitor-firebase-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="philmerrell" type="462c0819:PsiDirectoryNode" />
-              <item name="firebaseanalytics" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1bm61KGNMmZAnzbEf2Uv4JCuTeb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,40 +233,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -211,6 +257,27 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -222,56 +289,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549319409034</updated>
+      <workItem from="1589224983045" duration="61000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-1808" y="-257" width="1664" height="801" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954352" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Captures" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/android/capacitor-firebase-analytics/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/capacitor-firebase-analytics/src/main/java/com/philmerrell/firebaseanalytics/CapacitorFirebaseAnalytics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
